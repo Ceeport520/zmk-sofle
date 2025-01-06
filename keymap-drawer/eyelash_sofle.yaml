@@ -12,7 +12,7 @@ layers:
   - {t: '8', s: '*'}
   - {t: '9', s: (}
   - {t: '0', s: )}
-  - {t: '$$mdi:backspace$$', type: backspace}
+  - $$mdi:backspace-reverse-outline$$
   - $$mdi:keyboard-tab$$
   - Q
   - W
@@ -61,9 +61,9 @@ layers:
   - {t: '$$mdi:keyboard-return$$', type: enter}
   - '2'
   - {t: '$$mdi:keyboard-return$$', type: enter}
+  - _
+  - {t: '=', s: +}
   - $$mdi:keyboard-space$$
-  - $$mdi:apple-keyboard-shift$$
-  - $$mdi:backspace-reverse-outline$$
   layer1:
   - {t: '`', s: '~'}
   - F1
